@@ -238,3 +238,32 @@ body {
 	letter-spacing: 8px;
 	margin: 7.53907em;
 }
+
+.back {
+    outline-offset: -1em;
+    outline: #FFE1E5 1em solid;
+	background: #FFEEF1;
+	padding: 30px;
+}
+
+.intro {
+	font-size: 1.8em;
+    margin-left: 20px;
+}
+
+.details {
+    font-size: 1.1em;
+	position: absolute;
+	bottom: 25px;
+	left: 50px;
+}
+
+.details a {
+    text-transform: none;
+    text-decoration: none;
+    color: #6A6A6A;
+}
+
+.details a:hover {
+    color: #FFC4CA;
+}

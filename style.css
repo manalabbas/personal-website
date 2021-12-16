@@ -16,7 +16,7 @@ body {
 .circle1 {
 	width: 500px;
 	height: 500px;
-	background-color: white;
+	background-color: #ffffff;
 	border: 0;
 	opacity: 0.3;
 	position: absolute;
@@ -30,7 +30,7 @@ body {
 .circle2 {
 	width: 120px;
 	height: 120px;
-	background-color: white;
+	background-color: #ffffff;
 	border: 0;
 	opacity: 0.5;
 	position: absolute;
@@ -44,7 +44,7 @@ body {
 .circle3 {
 	width: 30px;
 	height: 30px;
-	background-color: white;
+	background-color: #ffffff;
 	border: 0;
 	opacity: 0.6;
 	position: absolute;
@@ -59,7 +59,7 @@ body {
 	width: 220px;
 	height: 220px;
 	background-color: transparent;
-	border: solid 2px white;
+	border: solid 2px #ffffff;
 	opacity: 0.6;
 	position: absolute;
 	border-radius: 100%;
@@ -72,7 +72,7 @@ body {
 .circle5 {
 	width: 50px;
 	height: 50px;
-	background-color: white;
+	background-color: #ffffff;
 	border: 0;
 	opacity: 0.5;
 	position: absolute;
@@ -87,7 +87,7 @@ body {
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	border: solid 2px white;
+	border: solid 2px #ffffff;
 	opacity: 0.6;
 	position: absolute;
 	border-radius: 100%;
@@ -100,7 +100,7 @@ body {
 .circle7 {
 	width: 165px;
 	height: 165px;
-	background-color: white;
+	background-color: #ffffff;
 	border: 0;
 	opacity: 0.45;
 	position: absolute;
@@ -114,7 +114,7 @@ body {
 .circle8 {
 	width: 20px;
 	height: 20px;
-	background-color: white;
+	background-color: #ffffff;
 	border: 0;
 	opacity: 0.7;
 	position: absolute;
@@ -190,7 +190,7 @@ body {
 
 .container {
 	perspective: 800px;
-	color: #6A6A6A;
+	color: #6a6a6a;
 	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 4px;
 	position: absolute;
@@ -221,13 +221,13 @@ body {
 }
 
 .front {
-	color: #FFF;
+	color: #ffffff;
 	line-height: 390px;
 	text-align: center;
 }
 
 .logo {
-	outline: 1px solid #ffd1d6;
+	outline: 1px solid #ffc5cb;
 	display: inline-block;
 	padding: 15px 40px;
 	text-transform: uppercase;
@@ -241,8 +241,8 @@ body {
 
 .back {
     outline-offset: -1em;
-    outline: #FFE1E5 1em solid;
-	background: #FFEEF1;
+    outline: #ffe1e5 1em solid;
+	background: #ffeef1;
 	padding: 30px;
 }
 
@@ -261,9 +261,9 @@ body {
 .details a {
     text-transform: none;
     text-decoration: none;
-    color: #6A6A6A;
+    color: #6a6a6a;
 }
 
 .details a:hover {
-    color: #FFC4CA;
+    color: #ffc5cb;
 }

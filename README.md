@@ -1,8 +1,10 @@
-<h1 align="center">&#128105;&#127995;&#8205;&#128187; <a href="https://manalabbas.com" target="_blank">manalabbas.com</a></h1>
+<h1 align="center">&#128105;&#127995;&#8205;&#128187; <a href="https://manalabbas.com">manalabbas.com</a></h1>
 
 <p align="center">
-  Static personal website powered by <a href="https://docs.aws.amazon.com/s3/index.html" target="_blank">Amazon S3</a>, <a href="https://docs.aws.amazon.com/route53/index.html" target="_blank">Route 53</a> & <a href="https://docs.aws.amazon.com/cloudfront/index.html" target="_blank">CloudFront</a>, and secured through <a href="https://aws.amazon.com/certificate-manager/" target="_blank">ACM</a>
+  Static personal website powered by <a href="https://docs.aws.amazon.com/s3/index.html">Amazon S3</a>, <a href="https://docs.aws.amazon.com/route53/index.html">Route 53</a> & <a href="https://docs.aws.amazon.com/cloudfront/index.html">CloudFront</a>, and secured through <a href="https://aws.amazon.com/certificate-manager/">ACM</a>
 </p>
+
+![Personal Website Preview](preview.gif)
 
 ---
 

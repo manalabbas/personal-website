@@ -12,11 +12,11 @@
 
 ## 🎨 Color Reference
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Pink           | ![#ffc5cb](https://via.placeholder.com/10/ffc5cb?text=+) `#ffc5cb` |
-| Light Pink     | ![#ffe1e5](https://via.placeholder.com/10/ffe1e5?text=+) `#ffe1e5` |
-| Lightest Pink  | ![#ffeef1](https://via.placeholder.com/10/ffeef1?text=+) `#ffeef1` |
-| White          | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
-| Gray | ![#6a6a6a](https://via.placeholder.com/10/6a6a6a?text=+) `#6a6a6a` |
-| Black | ![#141414](https://via.placeholder.com/10/141414?text=+) `#141414` |
+| Color          | Hex                                                                    |
+| -------------- | ---------------------------------------------------------------------- |
+| Pink           | ![#ffc5cb](https://via.placeholder.com/15/ffc5cb/ffc5cb.png) `#ffc5cb` |
+| Light Pink     | ![#ffe1e5](https://via.placeholder.com/15/ffe1e5/ffe1e5.png) `#ffe1e5` |
+| Lightest Pink  | ![#ffeef1](https://via.placeholder.com/15/ffeef1/ffeef1.png) `#ffeef1` |
+| White          | ![#ffffff](https://via.placeholder.com/15/ffffff/ffffff.png) `#ffffff` |
+| Gray           | ![#6a6a6a](https://via.placeholder.com/15/6a6a6a/6a6a6a.png) `#6a6a6a` |
+| Black          | ![#141414](https://via.placeholder.com/15/141414/141414.png) `#141414` |
